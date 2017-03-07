@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Barista Courses: Make it better</string>
+    <string name="title_main">Make it better</string>
+    <string name="title1">The best barista courses for all</string>
+    <string name="intro">You will learn in a relaxed way how to produce the finest coffees possible. We are here to introduce you to the beautiful art of coffee. We believe in learning at a relaxed pace and in an enjoyable way.</string>
+    <string name="title2">Find Your Course</string>
+    <string name="title3">Contact Details</string>
+    <string name="button1">Level \n1</string>
+    <string name="button2">Level \n2</string>
+    <string name="button3">Level \n3</string>
+    <string name="phone">+421 100 100 100</string>
+    <string name="address">Panenska 1 \nBratislava \nSlovakia</string>
+    <string name="working_days">Monday to Friday:\n8am&#8211;8pm</string>
+    <string name="picture">picture</string>
+    <string name="chooseYourLevel">Level Of The Course</string>
+</resources>
